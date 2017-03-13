@@ -1,6 +1,9 @@
 _repo: The-Mysterious-Island_1268
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: L'île mystérieuse. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -26,6 +29,8 @@ description: "The Mysterious Island (French: L'Île mystérieuse) is a novel by 
   \ the influence on the novel of Robinson Crusoe and The Swiss Family Robinson. Verne\
   \ developed a similar theme in his later novel, Godfrey Morgan (French: L'École\
   \ des Robinsons, 1882).\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1268#The-Mysterious-Island
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '1998-04-01'
 gutenberg_type: Text
